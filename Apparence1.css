@@ -1,0 +1,57 @@
+.title {
+    font-size: 300%; margin-top: 10px; width: max-content; text-align: center; margin-left: 25%;
+}
+#div2 {
+  font-size: 200%; width: max-content; float: right; margin-top: 40px; background-color: rgb(211, 127, 127); margin-right: 20%;
+}
+#div1 {
+  font-size: 200%;  float: left; margin-top: 40px; width: 35%; margin-left: 0%; background-color: rgb(211, 127, 127);
+}
+#textodescriptivo {
+    margin-top: 16% ; margin-left: 20%; font-size: x-large; background-color: rgb(211, 127, 127); width: max-content;
+}
+#textodescriptivotexto {
+    width: 45%; margin-left: 20%; font-size: x-large; background-color: rgb(211, 127, 127);
+}
+#textodescriptivo2 {
+     margin-left: 20%; font-size: x-large; background-color: rgb(211, 127, 127); width: max-content;
+    }
+.linkevent a{ text-decoration: none; color: black;
+
+}
+.linktemp a {
+    text-decoration: none; color: black;
+}
+.title a {
+    text-decoration: none; color: black;
+}
+#textotemp123 {
+    margin-left: 20%; font-size: x-large; background-color: rgb(211, 127, 127); width: max-content; margin-top: 20%
+}
+#textotemp12321 {
+    width: 45%; margin-left: 20%; font-size: x-large; background-color: rgb(211, 127, 127);
+}
+#registrotemp1 {
+  margin-left: 20%; font-size: x-large; background-color: rgb(211, 127, 127); width: max-content;
+}
+#registrotemp2 {
+font-size: x-large; background-color: rgb(211, 127, 127); width: 33.33%; float: left; text-decoration: underline;
+}
+#registrotemp3 {
+font-size: x-large; background-color: rgb(211, 127, 127); width: 33.33%; float:left; text-decoration: underline;
+}
+#registrotemp4 {
+ font-size: x-large; background-color: rgb(211, 127, 127); width: 33.33%; float: left; text-decoration: underline;
+}
+#p1 {
+    font-size: x-large; background-color: rgb(211, 127, 127); width: 33.33%; float: left;
+    }
+    #p2 {
+    font-size: x-large; background-color: rgb(211, 127, 127); width: 33.33%; float:left;
+    }
+    #p3 {
+     font-size: x-large; background-color: rgb(211, 127, 127); width: 33.33%; float: left;
+    }
+.img1 {
+    float: left; width: max-content; size: -30%;
+}
